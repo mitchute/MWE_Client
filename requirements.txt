@@ -1,0 +1,1 @@
+git+git://github.com/myoldmopar/MWE_Library@aa6809c83f0b4b#egg=mwe_lib
